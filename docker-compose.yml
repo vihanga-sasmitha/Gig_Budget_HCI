@@ -1,0 +1,11 @@
+# Optional local MongoDB when Docker Desktop is running.
+# Usage: docker compose up -d
+services:
+  mongo:
+    image: mongo:7
+    ports:
+      - '27017:27017'
+    volumes:
+      - gigbudget_mongo:/data/db
+volumes:
+  gigbudget_mongo:
