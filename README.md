@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GigBudget
 
 Daily expense tracker and budgeting app for gig workers (IT3060 HCI Milestone 03 — Group **WD_5**).
@@ -133,3 +134,7 @@ Record the real APK path and command in `docs/VERIFICATION_RESULTS.md` only afte
 - Usability results require five real/proxy participants — templates only until sessions run.
 - Sayumi’s dedicated hi-fi section was not in the supplied PDF; supporting screens follow Sasmitha’s design system and are labelled as newly designed.
 - Milestone 01 full research PDF was not supplied; FR/NFR IDs come from the WD_05 Milestone 02 report.
+=======
+# Gig_Budget_HCI
+GibBudget is a financial management app for gig workers to track irregular income, manage daily expenses, calculate net profits, and plan savings. Built with React.js, Node.js, Express.js, and MongoDB, it simplifies budgeting and supports smarter financial decisions.
+>>>>>>> f854dd0e0f9bc6699c32ea52f5cdd2a5719b5722
